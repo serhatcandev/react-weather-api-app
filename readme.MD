@@ -2,7 +2,7 @@
 
 🔵 Serhat Can
 
-🔵 14.02.2023 - 15.04.2023
+🔵 14.04.2023 - 15.04.2023
 
 🔵 Demo: https://react-weather-api-app.vercel.app/
 
